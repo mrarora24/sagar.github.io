@@ -1,2 +1,3 @@
 # sagar.github.io
-App which is created using react which is used to filter the robots.  ROBOAPP
+ROBOAPP
+Which takes a array of 10 robots and used to filter or search the robot.
